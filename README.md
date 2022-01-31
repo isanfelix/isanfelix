@@ -1,7 +1,7 @@
 Hi there 👋, I am ISAN
 
 ---
-A Javascript Developer with strong troubleshooting skill, and motivated to deep learn programming or new technology
+A Javascript Developer, motivated to deep learn programming or new technology. If you want to collaborate with me in a project, please fell free to contact me.
 
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Javscript
