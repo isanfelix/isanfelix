@@ -10,4 +10,4 @@ I am javascript developer with strong troubleshooting skill, and motivated to de
 - 📫 How to reach me:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Node](https://https://img.shields.io/badge/Node%20Js-Javscript-brightgreen)
+![Node](https://img.shields.io/badge/Node%20Js-Javscript-brightgreen)
