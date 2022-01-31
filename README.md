@@ -8,4 +8,6 @@ I am javascript developer with strong troubleshooting skill, and motivated to de
 - 💬 Ask me about Javascript
 - ⚡ Fun fact: Life is Game
 - 📫 How to reach me: 
-![https://github.com/isanfelix](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+<a href=”https://twitter.com/your_twitter_username_here"><img src=”https://img.shields.io/twitter/follow/your_twitter_username_here?label=Follow&style=social"></a>
