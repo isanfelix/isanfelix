@@ -21,5 +21,16 @@ I am javascript developer with strong troubleshooting skill, and motivated to de
 
 - Statistic
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanfelix&theme=merko&show_icons=true)]
-(https://github.com/isanfelix/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanfelix&theme=merko&show_icons=true)
+
+- Visitor
+
+![](https://visitor-badge.laobi.icu/badge?page_id=isanfelix.isanfelix)
+
+- Follower 
+
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/isanfelix)
+
+- Most Used Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanfelix&theme=radical)
