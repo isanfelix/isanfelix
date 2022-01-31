@@ -18,3 +18,7 @@ I am javascript developer with strong troubleshooting skill, and motivated to de
 ![Vue](https://img.shields.io/badge/Vue-Framework-brightgreen)
 ![Postgres](https://img.shields.io/badge/Postgres-Database-9cf)
 ![Postgres](https://img.shields.io/badge/Express-Framework-red)
+
+- Statistic
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanfelix)](https://github.com/anuraghazra/github-readme-stats)
