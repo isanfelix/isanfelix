@@ -12,4 +12,7 @@ I am javascript developer with strong troubleshooting skill, and motivated to de
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 - Tech Stack:
+
 ![Node](https://img.shields.io/badge/Node%20Js-Javscript-brightgreen)
+![React](https://img.shields.io/badge/React-Library-blue)
+
