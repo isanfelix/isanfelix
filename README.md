@@ -26,10 +26,10 @@ A Javascript Developer with strong troubleshooting skill, and motivated to deep 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanfelix&theme=merko&show_icons=true)
 
-
+<!-- 
 - Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanfelix&theme=radical)](https://github.com/isanfelix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanfelix&theme=radical)](https://github.com/isanfelix/github-readme-stats) -->
 
 
 ---
