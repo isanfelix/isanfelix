@@ -11,8 +11,8 @@ A Javascript Developer with strong troubleshooting skill, and motivated to deep 
 - 📫 How to reach me:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
----
 
+---
 - Tech Stack:
 
 ![Node](https://img.shields.io/badge/Node%20Js-Framework-brightgreen)
@@ -20,8 +20,8 @@ A Javascript Developer with strong troubleshooting skill, and motivated to deep 
 ![Vue](https://img.shields.io/badge/Vue-Framework-brightgreen)
 ![Postgres](https://img.shields.io/badge/Postgres-Database-9cf)
 ![Postgres](https://img.shields.io/badge/Express-Framework-red)
----
 
+---
 - Statistic
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanfelix&theme=merko&show_icons=true)
